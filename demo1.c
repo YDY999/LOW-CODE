@@ -2,6 +2,7 @@
 
 int main(void)
 {
+	printf("第一次修改");
 	int a = 0;
 	for (int i = 1; i <= 100; i++)
 	{
